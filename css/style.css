@@ -1,0 +1,38 @@
+body {
+    background: darkgrey;
+}
+
+#subtitle {
+    text-align:center;
+    font-style: italic;
+}
+
+#tribute-info {
+    background: gray;
+    line-height: 1.8;
+}
+p {
+    line-height: 1.8;
+}
+
+
+#title {
+    text-align: center;
+}
+
+#img-caption {
+    text-align: center;
+    font-style:italic;
+    margin: 0;
+}
+
+#quote {
+    font-style: italic;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto; 
+}
